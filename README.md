@@ -1,5 +1,5 @@
 ### Hi, I'm Dominique Stumbaugh (she/her)
-I am a 4th year PhD student in the [Department of Atmospheric and Oceanic Sciences](https://atmos.ucla.edu/) at the University of California Los Angeles (UCLA).<br>
+I am a PhD student in the [Department of Atmospheric and Oceanic Sciences](https://atmos.ucla.edu/) at the University of California Los Angeles (UCLA).<br>
 I work with satellite data and machine learning techniques to better understand the dynamics of Earth’s radiation belts.<br>
 Here you will find information about my current research and outreach activities.<br>
 Reach out at <dstumbaugh@ucla.edu> if you’d like to connect!
